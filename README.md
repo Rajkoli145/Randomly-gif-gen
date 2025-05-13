@@ -39,6 +39,18 @@ Random_gif_gen/
 └── README.md       # Project documentation
 ```
 
+## Live Demo 🌐
+
+View the live demo at: [Random GIF Viewer](https://rajkoli143.github.io/Random_gif_gen)
+
+## GitHub Pages Deployment 🚀
+
+1. Fork this repository
+2. Go to your fork's Settings > Pages
+3. Under "Source", select "main" branch and root directory (/)
+4. Click Save
+5. Your site will be published at `https://[your-username].github.io/Random_gif_gen`
+
 ## License 📝
 
 This project is open source and available under the MIT License.

@@ -4,7 +4,7 @@ A simple and elegant web application that displays random coding-themed GIFs. Th
 
 ## Features ✨
 
-- Auto-changing GIFs every 5 seconds
+- Auto-changing GIFs every 8 seconds
 - Manual GIF change button
 - Smooth animations and transitions
 - Modern gradient design
